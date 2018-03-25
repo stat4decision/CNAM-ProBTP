@@ -1,0 +1,16 @@
+name: formation
+channels:
+  - defaults
+dependencies:
+  - html5lib
+  - keras
+  - numpy
+  - pandas
+  - patsy
+  - scikit-learn
+  - scipy
+  - seaborn
+  - sqlalchemy
+  - sqlite
+  - statsmodels
+  - tensorflow
